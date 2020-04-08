@@ -25,7 +25,8 @@ Make json request with parameters as below :
 * `lat1` Latitude coordinate 1
 * `long2` Longitude coordinate 2
 * `lat2` Latitude coordinate 2
-The request will be :
+
+Your request will be :
 ```json
 {
 	"lat1":"your value",
