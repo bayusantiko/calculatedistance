@@ -6,13 +6,14 @@ This is implementation of calculate distance between 2 coordinates using node js
 
 
 ## Pre requisites
-Make sure you already have node js installed in your environment. You can check it using
+* Make sure you have already install node js in your environment. You can check it using
 >  node -v
-Install Postman as API Testing Tool
+
+* Install Postman as API Testing Tool
 
 ## Installation
-Create node js project and install express module within project folder.
-Clone the codebase from our github repository
+Create node js project and install express module within the project.
+Clone the codebase from my github repository
 >  $ git clone https://github.com/bayusantiko/calculatedistance.git
 
 ## How to Use
