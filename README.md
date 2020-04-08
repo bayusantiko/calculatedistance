@@ -17,7 +17,7 @@ Clone the codebase from my github repository
 >  $ git clone https://github.com/bayusantiko/calculatedistance.git
 
 ## How to Use
-Open yout Postman and set endpoint below with POST method
+Open Postman and set endpoint below with POST method
 >  http://localhost:3000/distance
 Make json request with parameters as below :
 
