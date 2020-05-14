@@ -2,8 +2,9 @@
   "name": "caldistance",
   "version": "1.0.0",
   "description": "service for distance calculation",
-  "main": "index.js",
+  "main": "8010_distance.js",
   "scripts": {
+    "start":"node 8010_distance.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "bayusantiko",

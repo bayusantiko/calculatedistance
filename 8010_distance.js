@@ -15,6 +15,6 @@ var routes = require('./src/routes/distance');
 routes(app);
 
 // set port, listen for requests
-app.listen(3000, () => {
+app.listen(8010, () => {
   console.log("Server is running on port 3000.");
 });
