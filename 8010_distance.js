@@ -1,7 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-var server_port = process.env.OPENSHIFT_NODEJS_PORT || 8010
-var server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
+var server_port = process.env.OPENSHIFT_NODEJS_PORT || 8080
+var server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '0.0.0.0'
 
 const app = express();
 
