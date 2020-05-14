@@ -17,5 +17,5 @@ routes(app);
 
 // set port, listen for requests
 app.listen(server_port, server_ip_address, () => {
-  console.log("Server is running on port 3000.");
+  console.log("Server is running on port"+server_port);
 });
